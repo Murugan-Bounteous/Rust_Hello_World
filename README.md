@@ -1,5 +1,5 @@
 # Rust_Hello_World
-The repository contains the steps to create the "Hello World" application in the README, along with an output image (hello_world.png).
+The repository contains the steps to create the "Hello World" application in the README, along with an output image [hello_world.png](https://github.com/Murugan-Bounteous/Rust_Hello_World/blob/feed5eb44e7bee9aa3dd3375a27b188c409a4b7b/hello_world.png).
 
 # Hello World in Rust
 
